@@ -88,10 +88,3 @@ We detect anomalies in NYC taxi demand using **LSTM quantile regression with con
 - **Visualization**: Matplotlib, Seaborn, Plotly, Folium  
 
 ---
-
-## How to Run
-1. Clone repo & install dependencies:
-   ```bash
-   git clone https://github.com/yourusername/nyc-taxi-analysis.git
-   cd nyc-taxi-analysis
-   pip install -r requirements.txt
