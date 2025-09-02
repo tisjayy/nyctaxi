@@ -49,7 +49,7 @@ We forecast taxi pickup demand by clustering locations and predicting the next 1
   - Train MAPE: ~14%  
   - Test MAPE: ~13.4%  
 - Shows strong generalization, predictions within ~13% error on average.
-### PowerBI dashboard for Jan 2016 (work in progress)
+### PowerBI dashboard for Jan 2016 (currently in progress)
 <img width="1321" height="745" alt="Screenshot 2025-07-28 143044" src="https://github.com/user-attachments/assets/cb419a40-948e-4106-b3ca-60cfccd1fbac" />
 
 [⬆ Back to Top](#nyc-taxi-demand-forecasting--anomaly-detection)
